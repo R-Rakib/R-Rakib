@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Riasad Rakib
+# 👋 Hi, I'm Riasad Rahman Rakib
 
 🎓 **3rd Year Undergraduate Student**  
 🏫 **Industrial & Production Engineering (IPE)**  
