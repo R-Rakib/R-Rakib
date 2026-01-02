@@ -41,7 +41,6 @@ My background in IPE helps me approach problems from an **optimization, efficien
 ## 📂 Projects
 
 Here you’ll find projects related to:
-- AI-based PPE Detection  
 - Computer Vision Applications  
 - Predictive Modeling & Optimization  
 - Recommender Systems  
